@@ -1,1 +1,1 @@
-!function(){var e=window.Telegram.WebApp;e.requestFullscreen(),document.querySelector("h1").textContent=e.initDataUnsafe.user.username||"Нет username"}();
+window.innerWidth<850&&window.Telegram.WebApp.requestFullscreen(),document.querySelector("h1").textContent=tg.initDataUnsafe.user.username||"Нет username";
