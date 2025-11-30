@@ -1,1 +1,1 @@
-window.Telegram.WebApp.requestFullscreen();
+!function(){var e=window.Telegram.WebApp;e.requestFullscreen(),console.log(e)}();
