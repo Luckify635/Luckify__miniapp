@@ -1,1 +1,2 @@
-window.Telegram.WebApp.requestFullscreen();
+const tg = window.Telegram.WebApp;
+tg.requestFullscreen();
