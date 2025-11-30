@@ -1,2 +1,1 @@
-const tg = window.Telegram.WebApp;
-tg.requestFullscreen();
+!function(){var e=window.Telegram.WebApp;console.log(e),e.expand()}();
